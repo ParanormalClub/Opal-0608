@@ -12,7 +12,7 @@ This Client Is A Clear Cash-Grab.
 
 # How To Use
 1. Download the Fabric installer from [here](https://fabricmc.net/use/installer/), open it and choose Minecraft 1.20.6
-2. Download Opal-Crack.zip from this repository along with [Fabric API](https://modrinth.com/mod/fabric-api/version/0.100.0+1.20.6) page and put it into your .minecraft/mods folder
+2. Download Opal-Crack.zip from this repository along with [Fabric API](https://modrinth.com/mod/fabric-api/version/0.100.0+1.20.6) page and put Opal.jar into your .minecraft/mods folder
 3. Put Opal-Patcher.jar into your .minecraft
 4. Add -javaagent:Opal-Patcher.jar to ur jvm args
 5. Start the game (with Fabric)
